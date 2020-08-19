@@ -8,7 +8,11 @@ Adding intro Text
 
 ## Purpose
 
+Add Purpose Text
+
 ## How to contribute
+
+Adding how to contribute
 
 ## Deployment
 
