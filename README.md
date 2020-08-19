@@ -1,6 +1,10 @@
 # Starter Web Repo
 
+This is Simple Web project
+
 ## Introduction
+
+Adding intro Text
 
 ## Purpose
 
