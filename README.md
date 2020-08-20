@@ -27,7 +27,7 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-Adding Copyright to README
+Adding Copyright to README , CHanges
 
 
 
