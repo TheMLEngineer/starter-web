@@ -30,7 +30,7 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-Adding Copyright to README , CHanges
+Adding Copyright to README , CHanges ,All Rights Reserved
 
 
 
