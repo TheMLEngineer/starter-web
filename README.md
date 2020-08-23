@@ -30,6 +30,8 @@ Sample website with plenty of files for demos
 Adding this part for stashing example
 
 
+Adding as part of manading multiple stashes example
+
 ## Copyright
 
 Adding Copyright to README , CHanges ,All Rights Reserved
